@@ -1,6 +1,6 @@
 """
 MemClean — Otimizador de RAM para Windows
-by Lohan Marques | github.com/lohan-marques
+by Lohan Marques | github.com/lohanmarq
 """
 
 import tkinter as tk
